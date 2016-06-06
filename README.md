@@ -1,4 +1,4 @@
-# Bootstrap-Admin-Template
+# Bootstrap-Admin-Template ############
 
 Metis is a simple yet powerful free Bootstrap admin dashboard template that you can feel free to use for any app, SaaS, admin dashboard, user dashbboard, web app, service, software or anything else. Feel free to share and fork it.
 
